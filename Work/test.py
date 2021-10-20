@@ -1,0 +1,1 @@
+print("Emma, I think those glasses are not good look for you")
